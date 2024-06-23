@@ -24,7 +24,7 @@ namespace MagniseAPI.Controllers
                 throw new ArgumentNullException(nameof(mapper));
         }
 
-        // api/pricecollections/{assetIds}
+        // api/pricecollections?{assetIds}
         [HttpGet]
         public async Task<IActionResult> GetPriceCollection(
             [ModelBinder(BinderType = typeof(ArrayModelBinder))]
