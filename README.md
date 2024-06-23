@@ -12,7 +12,7 @@ This documentation provides information about the Market Asset Price Information
 - **Response**: JSON array containing details of supported market assets.
 
 ### Get Price Information for Specific Asset(s)
-- **URL**: `/api/pricecollections/{assetIds}`
+- **URL**: `/api/pricecollections?{assetIds}`
 - **Method**: GET
 - **Description**: Retrieves price information for a specific asset identified by `{assetId}`. This endpoint also includes the time of the last update for each asset.
 - **Parameters**:
