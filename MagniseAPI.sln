@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagniseAPI", "MagniseAPI\MagniseAPI.csproj", "{16F5F21F-F96D-4EB2-A05D-111A31C87E05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C5FEB06B-6AA3-47A5-ABC3-564110557FEE}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F5F21F-F96D-4EB2-A05D-111A31C87E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F5F21F-F96D-4EB2-A05D-111A31C87E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F5F21F-F96D-4EB2-A05D-111A31C87E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F5F21F-F96D-4EB2-A05D-111A31C87E05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67839030-375C-4FDA-8BB7-4C92C157D907}
+	EndGlobalSection
+EndGlobal

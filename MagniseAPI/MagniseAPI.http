@@ -1,0 +1,6 @@
+@MagniseAPI_HostAddress = http://localhost:5143
+
+GET {{MagniseAPI_HostAddress}}/api/assets/
+Accept: application/json
+
+###
